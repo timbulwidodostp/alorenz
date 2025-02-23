@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'alorenz': Pen's Parade Use alorenz With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _ebin.ado
+f _matchval.ado
+f _pecatsal.ado
+f alorenz.ado
+f alorenz.hlp
+f groupfunction.ado
+f groupfunction.sthlp
+f which_version.ado
+f which_version.sthlp
