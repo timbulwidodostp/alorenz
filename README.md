@@ -1,6 +1,8 @@
 # alorenz
 Pen's Parade Use alorenz With STATA 18
 
+https://www.youtube.com/watch?v=45XGBp41kuA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
